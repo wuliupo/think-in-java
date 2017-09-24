@@ -18,7 +18,7 @@
 David Flanagan
 出版社：O'Reilly
 出版时间：1997
-简介：在阅读本书前，我可以说根本不理解Java有关网络的问题。后来，我也发现他的Web站点“Cafe au Lait”是个令人激动的、很人个性的以及经常更新的去处，涉及大量有价值的Java开发资源。由于几乎每天更新，所以在这里能看到与Java有关的大量新闻。站点地址是：http://sunsite.unc.edu/javafaq/。
+简介：在阅读本书前，我可以说根本不理解Java有关网络的问题。后来，我也发现他的Web站点“Cafe au Lait”是个令人激动的、很人个性的以及经常更新的去处，涉及大量有价值的Java开发资源。由于几乎每天更新，所以在这里能看到与Java有关的大量新闻。站点地址是：http://sunsite.unc.edu/javafaq/ 。
 
 ■《Core Java，第3版》
 作者：Cornel和Horstmann
